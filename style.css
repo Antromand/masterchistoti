@@ -1,0 +1,12 @@
+.container {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.header div {
+    display: inline-block;
+}
+
+.header .logo {
+    color: #03aebc;
+}
